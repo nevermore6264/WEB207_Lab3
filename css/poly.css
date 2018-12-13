@@ -62,3 +62,8 @@ header{
 #accordion .panel-heading{
     cursor: pointer;
 }
+
+.img-thumbnail{
+    height: 50px;
+    max-width: 95%;
+}
